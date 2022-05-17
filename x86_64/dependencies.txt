@@ -34,4 +34,4 @@ qt5-translations
 git
 boost
 
-repo-add ./borb-os_repo.db.tar.gz calamares-3.2.57-1-x86_64.pkg.tar.zst ckbcomp-1.207-1-any.pkg.tar.zst mkinitcpio-openswap-0.1.0-3-any.pkg.tar.zst trizen-1:1.64-1-any.pkg.tar.zst thunderbird-beta-bin-101.0b2-1-x86_64.pkg.tar.zst octopi-0.13.0-1-x86_64.pkg.tar.zst alpm_octopi_utils-1.0.2-3-x86_64.pkg.tar.zst sddm-sugar-candy-git-r53.2b72ef6-1-any.pkg.tar.zst ulauncher-5.14.4-1-any.pkg.tar.zst decentr-browser-unstable-bin-1.2.1-1-x86_64.pkg.tar.zst
+repo-add ./borb-os_repo.db.tar.gz calamares-3.2.57-1-x86_64.pkg.tar.zst ckbcomp-1.207-1-any.pkg.tar.zst mkinitcpio-openswap-0.1.0-3-any.pkg.tar.zst trizen-1:1.64-1-any.pkg.tar.zst thunderbird-beta-bin-101.0b2-1-x86_64.pkg.tar.zst octopi-0.13.0-1-x86_64.pkg.tar.zst alpm_octopi_utils-1.0.2-3-x86_64.pkg.tar.zst sddm-sugar-candy-git-r53.2b72ef6-1-any.pkg.tar.zst ulauncher-5.14.4-1-any.pkg.tar.zst decentr-browser-unstable-bin-1.2.1-1-x86_64.pkg.tar.zst brave-bin-1:1.38.115-1-x86_64.pkg.tar.zst
